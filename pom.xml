@@ -21,6 +21,6 @@
     </properties>
     
     <modules>
-        <module>../pegacorn-communicate-iris</module>
+        <module>../pegacorn-mitaf-component-stdtap18</module>
     </modules>
 </project>
